@@ -1,8 +1,8 @@
 # java-finding-index-and-decompressing-string
 
 This repository includes 2 questions that I tried to implement with Java language.
-1) All programs will interact with a user via console
-2) Use JDK 1.8 to execute program
+* All programs will interact with a user via console
+** Use JDK 1.8 to execute program
 
 1. To find and get index(es) by searching for an integer within an array of integers.
 
