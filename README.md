@@ -1,7 +1,6 @@
 # java-finding-index-and-decompressing-string
 
-This repository includes 2 questions that I try to implement with Java language.
-Note: 
+This repository includes 2 questions that I tried to implement with Java language.
 1) All program will interact with a user via console
 2) Use JDK 1.8 to execute program
 
